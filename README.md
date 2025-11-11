@@ -2,7 +2,7 @@
 
 This repository contains educational materials, notebooks, and resources from the "5-Day AI Agents Intensive Course with Google". The course covers fundamental concepts of AI agents, from basic prompt-to-action workflows to advanced agent architectures and tool integration.
 
-## 📚 Course Overview
+## Course Overview
 
 This intensive course provides hands-on learning about AI agents, covering:
 
@@ -12,7 +12,7 @@ This intensive course provides hands-on learning about AI agents, covering:
 - **Best Practices**: Industry standards and optimization techniques
 - **Practical Implementation**: Real-world examples and use cases
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 ├── day-1/                    # Day 1: Foundations
@@ -21,13 +21,16 @@ This intensive course provides hands-on learning about AI agents, covering:
 ├── day-2/                    # Day 2: Tools & Integration  
 │   ├── Day_2a_Agent_Tools.ipynb
 │   └── Day_2b_Agent_Tools_Best_Practices.ipynb
+├── day-3/                    # Day 3: (Content will be updated when released by Google & Kaggle)
+├── day-4/                    # Day 4: (Content will be updated when released by Google & Kaggle)
+├── day-5/                    # Day 5: (Content will be updated when released by Google & Kaggle)
 ├── whitepapers/              # Reference Materials
 │   ├── Agent Tools & Interoperability with Model Context Protocol (MCP).pdf
 │   └── Introduction to Agents.pdf
 └── README.md                 # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -60,7 +63,7 @@ Each notebook includes a "Open in Colab" badge at the top. Simply click it to ru
 
 4. Navigate to the desired day folder and open the notebook files.
 
-## 📖 Course Content
+## Course Content
 
 ### Day 1: Foundations
 - **Day 1a - From Prompt to Action**: Introduction to basic agent workflows, understanding how prompts translate into actions
@@ -70,33 +73,24 @@ Each notebook includes a "Open in Colab" badge at the top. Simply click it to ru
 - **Day 2a - Agent Tools**: Hands-on exploration of agent tool integration and external API usage
 - **Day 2b - Agent Tools Best Practices**: Industry best practices for tool integration, error handling, and optimization
 
-## 📄 Reference Materials
+## Reference Materials
 
 The `whitepapers/` directory contains essential reading materials:
 
 - **Introduction to Agents.pdf**: Foundational concepts and theoretical background
 - **Agent Tools & Interoperability with Model Context Protocol (MCP).pdf**: Advanced topics on tool integration and protocol standards
 
-## 🤝 Contributing
-
-This repository is primarily for educational purposes. If you find issues or have suggestions for improvements:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📜 License
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- **Google**: For providing the comprehensive AI Agents Intensive Course
+- **Google & Kaggle**: For providing the comprehensive AI Agents Intensive Course
 - **Course Instructors**: For the excellent educational content and practical examples
 - **Community Contributors**: For feedback and improvements to the materials
 
-## 📞 Support
+## Support
 
 For questions about the course content or technical issues:
 
