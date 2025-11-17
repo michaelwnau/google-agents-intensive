@@ -1,0 +1,6 @@
+Meeting on October 16, 2024 14:30 OAuth issues are being addressed in Istio's callback route setup. Michael is refactoring the landing page for the directory, while Tim upgraded Android Studio and improved app performance with pagination. -Michael is working on the landing page refactor for the directory and leadership policy, focusing on integrating existing phone directory data and ensuring designs match Zeppelin.
+-Tim has upgraded Android Studio and Flutter, addressing issues with the video player plugin and implementing pagination for the C-notes endpoint to improve app performance.
+-The OAuth issues are linked to Istio's callback route setup with the OAuth service, which is being changed to resolve the current problems with authentication.
+-Allan received feedback on the designs for the drawer and made updates in Zeppelin, while also planning to finish the slick sheets.
+-Nathaniel confirmed that the sprint retro is scheduled for today from 3 to 4 PM and mentioned that sprint planning will take place tomorrow.
+ https://supernorm.al/meeting-on-october-16-2024-14-30-4d7c31dce8de453dbfcffcc2fc53c78a 4d7c31dce8de453dbfcffcc2fc53c78a 2024-10-16T14:42:58.076Z
