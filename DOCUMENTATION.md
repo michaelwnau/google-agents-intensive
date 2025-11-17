@@ -12,7 +12,7 @@ Welcome to the comprehensive documentation for the 5-Day Google AI Agents Intens
   - [Day 2: Tools & Integration](#day-2-tools--integration)
   - [Day 3: Sessions & Memory](#day-3-sessions--memory)
   - [Day 4: Observability & Evaluation](#day-4-observability--evaluation)
-- [Day 5: From Prototype to Production](#day-5-from-prototype-to-production)
+  - [Day 5: From Prototype to Production](#day-5-from-prototype-to-production)
 - [Reference Materials](#reference-materials)
 - [Configuration Files](#configuration-files)
 - [Development Guide](#development-guide)
