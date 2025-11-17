@@ -12,6 +12,7 @@ Welcome to the comprehensive documentation for the 5-Day Google AI Agents Intens
   - [Day 2: Tools & Integration](#day-2-tools--integration)
   - [Day 3: Sessions & Memory](#day-3-sessions--memory)
   - [Day 4: Observability & Evaluation](#day-4-observability--evaluation)
+- [Day 5: From Prototype to Production](#day-5-from-prototype-to-production)
 - [Reference Materials](#reference-materials)
 - [Configuration Files](#configuration-files)
 - [Development Guide](#development-guide)
@@ -332,6 +333,27 @@ The course is organized into daily modules, each building upon previous knowledg
 
 ---
 
+## Day 5: From Prototype to Production
+
+**Directory**: `day-5/`
+**Focus**: Advanced topics in agent-to-agent communication and deploying agents to production.
+
+### day-5a-agent2agent-communication.ipynb
+**Objective**: Exploring communication patterns between AI agents
+**Learning Outcomes**:
+- Implement multi-agent communication protocols
+- Design collaborative agent systems
+- Handle negotiations and conflicts between agents
+- Evaluate the performance of multi-agent systems
+
+**Key Concepts Covered**:
+- Agent communication languages (e.g., FIPA-ACL)
+- Negotiation and coordination strategies
+- Distributed problem-solving
+- Multi-agent system architectures
+
+---
+
 ## Reference Materials
 
 **Directory**: `whitepapers/`
@@ -388,6 +410,14 @@ The course is organized into daily modules, each building upon previous knowledg
 - Performance and scalability
 - Reliability and robustness
 - User experience and satisfaction
+
+### Prototype to Production.pdf
+**Content**: A guide to transitioning agent prototypes to production-ready systems.
+**Topics Covered**:
+- Deployment strategies for AI agents
+- Scalability and performance considerations
+- Monitoring and maintenance in production
+- Continuous improvement and model updates
 
 ---
 
